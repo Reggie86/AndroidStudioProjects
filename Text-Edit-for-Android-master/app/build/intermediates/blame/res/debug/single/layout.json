@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\colorchooser.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\colorchooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\prefcolor.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\prefcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filebrowser_list.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\filebrowser_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\openrecent_list.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\openrecent_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_autotext_autocase.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\edit_autotext_autocase.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_savefile_noauto.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\dialog_savefile_noauto.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_autocase.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\edit_autocase.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filebrowser_title.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\filebrowser_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filebrowser_item.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\filebrowser_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rename.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filebrowser_all.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\filebrowser_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_mkdir.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\dialog_mkdir.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_autotext.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\edit_autotext.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_savefile.xml",
+        "source": "C:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\src\\main\\res\\layout\\dialog_savefile.xml"
+    }
+]

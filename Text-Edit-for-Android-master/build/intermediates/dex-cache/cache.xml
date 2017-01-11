@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\camo2j\AndroidStudioProjects\Text-Edit-for-Android-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3ac9bfc3ec261c0dd048e9dfa61637967e07292">
+        <dex dex="C:\Users\camo2j\AndroidStudioProjects\Text-Edit-for-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a4c8fe5906de8bcba3e7bc816fb15b7892cdf6eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camo2j\AndroidStudioProjects\Text-Edit-for-Android-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="019e68de3b1c2b938c6fdc4e1999c108b2a7f252">
+        <dex dex="C:\Users\camo2j\AndroidStudioProjects\Text-Edit-for-Android-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e27eb61903f3012e59ede4a6903f350049eb7dd1\classes.dex" />
+    </item>
+
+</items>

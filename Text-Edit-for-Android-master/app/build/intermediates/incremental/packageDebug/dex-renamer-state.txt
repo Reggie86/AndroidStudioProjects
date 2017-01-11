@@ -1,0 +1,7 @@
+#Tue Jan 03 07:50:49 EST 2017
+base.0=C\:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e27eb61903f3012e59ede4a6903f350049eb7dd1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a4c8fe5906de8bcba3e7bc816fb15b7892cdf6eb\\classes.dex
+base.1=C\:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a4c8fe5906de8bcba3e7bc816fb15b7892cdf6eb
+file.0=C\:\\Users\\camo2j\\AndroidStudioProjects\\Text-Edit-for-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e27eb61903f3012e59ede4a6903f350049eb7dd1\\classes.dex

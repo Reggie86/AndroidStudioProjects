@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE manifest [<!ELEMENT manifest (application)*><!ATTLIST manifestxmlns:android CDATA #REQUIREDpackage CDATA #REQUIRED><!ELEMENT application (activity)*><!ATTLIST applicationandroid:allowBackup CDATA #REQUIREDandroid:icon CDATA #REQUIREDandroid:label CDATA #REQUIREDandroid:supportsRtl CDATA #REQUIREDandroid:theme CDATA #REQUIRED><!ELEMENT activity (intent-filter)*><!ATTLIST activityandroid:name CDATA #REQUIRED><!ELEMENT intent-filter (action|category)*><!ELEMENT action (#PCDATA)><!ATTLIST actionandroid:name CDATA #REQUIRED><!ELEMENT category (#PCDATA)><!ATTLIST categoryandroid:name CDATA #REQUIRED>]>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.cchmc.camo2j.currencyconverter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

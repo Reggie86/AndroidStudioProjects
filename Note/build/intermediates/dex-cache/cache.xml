@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\camo2j\AndroidStudioProjects\Note\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b960b5977e499aba6c2398d6c0a2a1358f6169d">
+        <dex dex="C:\Users\camo2j\AndroidStudioProjects\Note\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d8a9e0cc56afeaf35c8de112db60f5d34bd8d8a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camo2j\AndroidStudioProjects\Note\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a870d28f363a1d4fddccd00abb54086f10cc6814">
+        <dex dex="C:\Users\camo2j\AndroidStudioProjects\Note\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_613489406c5e8aaacd998f22f151bdadae075320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\camo2j\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\camo2j\AndroidStudioProjects\Note\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_18bc64840b97d928dcdf13985238e263efebf3a2\classes.dex" />
+    </item>
+
+</items>
